@@ -36,7 +36,7 @@ Subir a instancia do docker
 
 Rodar a Aplicacao
 
-Path -> src/main/java/acauhi/btgpactual/orderms/OrdermsApplication.java
+- Path -> src/main/java/acauhi/btgpactual/orderms/OrdermsApplication.java
 
 
 ## Stack utilizada
