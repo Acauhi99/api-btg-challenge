@@ -34,9 +34,9 @@ Subir a instancia do docker
   docker compose up
 ```
 
-Inicie o servidor
+Rodar a Aplicacao
 
-src/main/java/acauhi/btgpactual/orderms/OrdermsApplication.java
+Path -> src/main/java/acauhi/btgpactual/orderms/OrdermsApplication.java
 
 
 ## Stack utilizada
